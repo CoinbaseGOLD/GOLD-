@@ -1,2 +1,2 @@
-# GOLD-
+# GOLD
 Smart Contract
